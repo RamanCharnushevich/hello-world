@@ -1,2 +1,3 @@
 # hello-world
-Let's try it:)
+Hi guys!
+Let's JS! Looking forward to learn new things about it!
